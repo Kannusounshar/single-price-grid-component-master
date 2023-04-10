@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Kannusounshar/single-price-grid-component-master)
-- Live Site URL: [Add live site URL here](https://exquisite-pony-6151f5.netlify.app)
+- Solution URL: [click here](https://github.com/Kannusounshar/single-price-grid-component-master)
+- Live Site URL: [click here](https://exquisite-pony-6151f5.netlify.app)
 
 ## My process
 
