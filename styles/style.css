@@ -105,7 +105,7 @@ body{
  
 }
 .tenure{
-  opacity: 0.5;
+  opacity: 0.75;
 }
 .card-two-description{
   color: var(--clr-Light-Gray);
@@ -141,7 +141,7 @@ body{
   margin: 0.15rem auto;
   border-bottom-left-radius: 8px;
   border-bottom-right-radius:8px ;
-  opacity: 0.5;
+  opacity: 0.75;
 }
 
 
